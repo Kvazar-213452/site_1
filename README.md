@@ -1,3 +1,3 @@
 # site_1
 
-![Alt text](1.jpg)
+![Alt text](image.png)
